@@ -1,0 +1,86 @@
+body {
+    background-color: none;
+    font-family: "Roboto", sans-serif;
+}
+
+.scoreboard {
+    background-color: rgba(34, 34, 34, 0.8);
+    border-radius: 15px;
+    padding: 10px 20px;
+    display: inline-block;
+    zoom: 1.7;
+    -moz-transform: scale(1.7);
+    -moz-transform-origin: 0 0;
+}
+
+.scoreboard-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.team {
+    display: flex;
+    align-items: center;
+}
+
+.team-logo {
+    height: 50px;
+}
+
+.team1 {
+    margin: 0 15px 0 0;
+}
+
+.team2 {
+    margin: 0 0 0 15px;
+}
+
+.team-score {
+    font-size: 36px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.center-logo img {
+    height: 35px;
+}
+
+.scoreboard-bottom {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+    align-items: center;
+}
+
+.inning-info {
+    color: #fff;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+}
+
+.inning-info .triangle {
+    font-size: 12px;
+    margin-right: 5px;
+}
+
+.league-info {
+    color: white;
+    font-size: 9px;
+    margin-left: 10px;
+}
+
+.count-info {
+    color: #fff;
+    font-size: 18px;
+    text-align: right;
+}
+
+.score-box-light {
+    background-color: #efb01e88;
+    font-size: 40px;
+    width: 40%;
+    margin: auto;
+    margin-bottom: auto;
+}
