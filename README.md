@@ -4,7 +4,7 @@ Project for Baseball and Softball teams. Runs locally. Main purpose is to add sc
 
 ## Parts
 
-![obrazek](https://github.com/user-attachments/assets/0da9fbba-019b-4d3f-b8ed-37909f512d7b)
+![obrazek](https://github.com/user-attachments/assets/9d85e6e4-4636-4d15-8040-676f06ddf489)
 
 board.html shows the scoreboard with runs from visitors and home team, their logos, inning + top/bot, outs and league name. 
 
