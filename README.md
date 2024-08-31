@@ -10,7 +10,7 @@ board.html shows the scoreboard with runs from visitors and home team, their log
 
 ![obrazek](https://github.com/user-attachments/assets/319fee96-7a1e-4fcd-8019-0951aafde9a7)
 
-index.html gives interface to the worker that will controlls the scoreboard.
+index.html gives interface to the worker that will controll the scoreboard. There can be changed logos of teams, league name and all of numbers.
 
 ## Use
 
