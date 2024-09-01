@@ -1,6 +1,6 @@
 # Scoreboard for Baseball and Softball
 
-Project for Baseball and Softball teams. Runs locally. Main purpose is to add scoreboard to live stream in program like OBS.
+Project for Baseball and Softball teams. Runs locally. Main purpose is to add scoreboard to live stream in program like OBS. It uses JS and local storage in browser.
 
 ## Parts
 
@@ -17,3 +17,4 @@ index.html gives interface to the worker that will controll the scoreboard. Ther
 ![obrazek](https://github.com/user-attachments/assets/1565e615-3846-4bc6-9007-2de64ffdc113)
 
 Both website must be added as new input sources. Both must be turned on with the eye. The controller should not be placed in the viewing area. To interact with the controller just tap 'Interaction' button.
+New logos add to folder imgs.
